@@ -23,6 +23,7 @@
   .title {
     display: table;
     float: left;
+    width:190px;
     height: 40px;
     > a {
       display: table-cell;
@@ -30,7 +31,7 @@
     }
   }
   #site-logo {
-    width: 122px;
+    width: 190px;
   }
   .icon-home {
     font-size: 20px;
@@ -39,6 +40,7 @@
   .panel {
     float: right;
     position: relative;
+    top:12px;
   }
   .current-username {
     float: left;

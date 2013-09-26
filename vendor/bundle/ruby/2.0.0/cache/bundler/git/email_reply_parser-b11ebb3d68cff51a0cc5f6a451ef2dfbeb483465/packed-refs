@@ -1,0 +1,5 @@
+# pack-refs with: peeled 
+a1b29a6227f66ebb5bd4bb3366ef20dc8d3b6d12 refs/heads/condensed-reply-headers
+67408dfb1b99fb8d5f145f782b9e22d1851a8e5a refs/heads/master
+9b06cc5ccde1722c544835f793e70191f817b4e7 refs/tags/v0.2.0
+94d27e1b35b1794a9af8367d72353081925f611d refs/tags/v0.3.0

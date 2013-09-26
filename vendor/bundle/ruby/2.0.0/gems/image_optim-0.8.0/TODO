@@ -1,0 +1,7 @@
+leave_color branch
+autorotate jpeg based on exif (jhead -auotrot)
+timeout workers?
+don't fail but warn on bins not present
+better documentation
+preserve time/attrs option?
+jpegrescan
